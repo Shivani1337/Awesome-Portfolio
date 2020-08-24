@@ -17,3 +17,4 @@ if(mail($to,$subject,$message,$headers)){
     echo json_encode(array("msg" => "Something went wrong, Try Again!"));
 
 };
+?>
