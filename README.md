@@ -1,7 +1,7 @@
-### My new awesome Portfolio Website
+### Awesome Portfolio Website
 
-#### If you like it, Do Fork it.
+#### You can use this as a template of your Portfolio but don't forget to fork it and star this repo for future use.
 
-#### Open for contribution, you can use this as a template of your Portfolio.
+### Open for contribution.
 
 #### Link : https://iShivani.tech
